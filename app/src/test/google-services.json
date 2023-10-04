@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "225561261740",
+    "project_id": "social-shop-admin",
+    "storage_bucket": "social-shop-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225561261740:android:d42fa38a50536cec15d109",
+        "android_client_info": {
+          "package_name": "com.sharad.socialshops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225561261740-0rpva2f2u402p90it98aqcjc6vigunj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharad.socialshops",
+            "certificate_hash": "8331e7e63599d734596f2dd4c855b1a90b8cd3b5"
+          }
+        },
+        {
+          "client_id": "225561261740-hd82na2hrarpaqoro7lh84jmhi51tkuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArz5xapjCNm3bhmjlzgwek47NyqZ2PUH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225561261740-hd82na2hrarpaqoro7lh84jmhi51tkuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225561261740:android:5258266c7dfc816815d109",
+        "android_client_info": {
+          "package_name": "com.sharad.socialshopsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225561261740-hd82na2hrarpaqoro7lh84jmhi51tkuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArz5xapjCNm3bhmjlzgwek47NyqZ2PUH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225561261740-hd82na2hrarpaqoro7lh84jmhi51tkuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225561261740:android:d28a9f9293ee276415d109",
+        "android_client_info": {
+          "package_name": "com.sharad.sociox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225561261740-hd82na2hrarpaqoro7lh84jmhi51tkuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArz5xapjCNm3bhmjlzgwek47NyqZ2PUH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225561261740-hd82na2hrarpaqoro7lh84jmhi51tkuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

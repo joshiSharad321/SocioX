@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:padding="12dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Product Name"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:id="@+id/prodTitle"
+            android:textSize="22sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Price:1200rs"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:id="@+id/prodPrice"
+            android:textSize="18sp"/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/prodStatus"
+    android:text="Delivered"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    android:textSize="18sp"/>
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
